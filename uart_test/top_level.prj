@@ -1,0 +1,4 @@
+vhdl work "uart.vhd"
+vhdl work "main.vhd"
+verilog work "comp.v"
+vhdl work "top_level.vhd"

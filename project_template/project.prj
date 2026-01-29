@@ -1,0 +1,2 @@
+vhdl work "hdl/project.vhd"
+vhdl work "hdl/counter.vhd"
